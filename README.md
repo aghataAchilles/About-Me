@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Aghata Achilles de Oliveira
-Sou estudante de Física na Universidade de São Paulo e faço parte da organização de um projeto social chamado ElaSTEMpoder, que busca incentivar meninas na ciência e divulgar o trabalho de mulheres cientistas. 
-<br/> :computer: &nbsp; Conheço as linguagens Python e JavaScript, e estou buscando aprender mais sobre Front-End e realizar projetos de desenvolvimento web.
- <br/> 💬  &nbsp; Sobre mim: sou atleta amadora e estudo música nas horas vagas, gosto de aprender novos idiomas e estudar oceanografia. 
+Sou estudante de Licenciatura em Física na Universidade de São Paulo.
+<br/> :computer: &nbsp; Conheço as linguagens Python e JavaScript
+ <br/> 💬  &nbsp; Sobre mim: Gosto de esportes, já pratiquei vôlei, corrida, canoagem e, atualmente, natação. Estudo música nas horas vagas, toco violino, gosto de aprender novos idiomas e estudar oceanografia. 
  <br/> :email: &nbsp; Entre em contato comigo: www.linkedin.com/in/aghata-achilles-de-oliveira
 
